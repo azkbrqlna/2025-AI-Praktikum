@@ -1,5 +1,3 @@
-# 2025_KB_Praktikum
-
 > 🤖 Learning Artificial Intelligence  
 > 🏫 Politeknik Negeri Semarang  
 > 📅 Semester 2 - Year 2025  
