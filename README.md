@@ -1,4 +1,4 @@
-#2025-AI-Praktikum
+# 2025-AI-Praktikum
 
 > 🤖 Learning Artificial Intelligence  
 > 🏫 Politeknik Negeri Semarang  
